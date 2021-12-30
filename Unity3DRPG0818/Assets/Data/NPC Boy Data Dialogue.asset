@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d727e26170a0648b0a709e9d4cf7f3, type: 3}
+  m_Name: NPC Boy Data Dialogue
+  m_EditorClassIdentifier: 
+  nameDialogue: "\u5C41\u5B69"
+  beforeMission:
+  - Never gonna give you up.
+  - Never gonna let you down.
+  missionning:
+  - Never gonna run around and desert you.
+  - Never gonna make you cry.
+  afterMission:
+  - Never gonna say goodbye.
+  - Never gonna tell a lie and hurt you.
+  countNeed: 10
+  stateNPCMission: 0
